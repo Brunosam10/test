@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				-484
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-45,
+				-543
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				-578
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				52,
+				-569
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				160,
+				-544
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/rtx-kica",
+	"position": [
+		130,
+		-170
+	],
+	"healthicon": "playkica",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		138,
+		129
+	],
+	"camera_position": [
+		-70,
+		550
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
