@@ -1,0 +1,32 @@
+{
+	"storyName": "you're friendly neightborhood cat, kica",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "calico",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Calico",
+			"kica",
+			[
+				100,
+				100,
+				108
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "back from the dead!"
+}
